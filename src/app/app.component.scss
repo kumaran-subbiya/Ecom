@@ -1,0 +1,40 @@
+h1{
+    text-align: center;
+   
+}
+.main{
+    background-image: url('/app.jpg');
+    background-attachment: fixed;
+    overflow: hidden;
+    background-repeat: no-repeat;
+    
+}
+.overview{
+    
+    position: relative;
+    left:50vw;
+    color: #f7bb3b;
+    font-size: 17px;
+}
+
+.sign{
+    height:70vh;
+    width:40vw;
+    background-color: rgb(243, 228, 228);
+    position: relative;
+    left: 55vw;
+    bottom: 55vh;
+    border-radius:10% ;
+}
+.login{
+   
+    text-align: center;
+}
+
+
+a{
+    position: relative;
+    left: 70vw;
+   
+    
+}

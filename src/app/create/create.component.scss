@@ -1,0 +1,20 @@
+.page {
+    margin: 0px;
+    padding: 0px;
+    background-image: url('/loginbg.jpg');
+    background-size: 100vw 100vh;
+    height: 100vh;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+
+
+
+.form-container {
+     max-width: 600px;
+    margin: auto;
+    background-color: #2c2f33;
+    padding: 30px;
+    border-radius: 10px;
+    color: white;
+}
